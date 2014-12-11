@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">INF133 Android Tilt</string>
+    <string name="text1">Azimuth: 0</string>
+    <string name="text2">Pitch: 0</string>
+    <string name="text3">Roll: 0</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
